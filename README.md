@@ -5,7 +5,7 @@
 <li> Name of Problem is clearly mentioned </li>
 <li> The problem statement and one of its test case is also included </li>
 <li> Maximum problem has been done in Java Language, followed by Python and C++ </li>
-<li> The problem has been categorized by its difficulty level </li>
+<li> The problem has been categorized by its difficulty level </li><br><br>
 
 |S. No| Difficulty Level |
 | :---| :----------------|
