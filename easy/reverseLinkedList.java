@@ -1,4 +1,5 @@
-//206 Reverse Linked List\
+//206 Reverse Linked List
+
 class Solution {
   public ListNode reverseList(ListNode head) {
     if (head == null || head.next == null)
